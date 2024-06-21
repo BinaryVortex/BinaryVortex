@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **disandup1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/disandu-perera-8bb931264/](https://www.linkedin.com/in/disandu-perera-8bb931264/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/disandu-perera-8bb931264/](https://www.linkedin.com/in/disandu-perera-8bb931264/) (Linkedln)
 
 - ⚡ Fun fact **I Love Coding**
 
