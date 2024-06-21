@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/](https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/)
 
-- 📝 I regularly write articles on [CODEMASTERS GUILD](CODEMASTERS GUILD)
+- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61551643750277](CODEMASTERS GUILD)
 
 - 💬 Ask me about **python,java,html,css,javascript and sql...**
 
