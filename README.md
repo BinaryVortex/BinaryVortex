@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="[https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile](https://www.google.com/search?sca_esv=90dd98a2612e3d60&sca_upv=1&sxsrf=ADLYWIKYhbY-H8q_hBXg0LXm4Q1qQWXvzw:1718960188712&q=computer+science&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jrrv3e_fewYh7LFIpXPaEgNQ1vZHC7aVwStfN-hyt8w9-_cDefFaAxB_MiaUN2L6V5z4wWz-7raH0Tt5sVyRBTkQkeZ_iBb2GjNqWErJi65Wv83yEb6diOVchFUU77P660K6Eok&sa=X&ved=2ahUKEwiyoLnbqeyGAxWlyjgGHatbKx8QtKgLegQIDRAB#vhid=MfzBtjIuiqlJzM&vssid=mosaic)" alt="Banner Image">
-</h1>
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+BinaryVortex's+Profile" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm BinaryVortex.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
