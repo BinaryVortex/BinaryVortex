@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="D:\New folder\Desktop\Neon Portfolio/forest.jpg" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm BinaryVortex.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
