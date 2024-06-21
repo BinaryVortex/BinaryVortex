@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner Image">
+</h1>
+
 <h1 align="center">Hi 👋, I'm BinaryVortex.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
 
