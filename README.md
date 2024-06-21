@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/](https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/](https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/)(Linkedln)
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61551643750277](CODEMASTERS GUILD)
 
