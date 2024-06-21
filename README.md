@@ -1,6 +1,31 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+BinaryVortex's+Profile" alt="Banner" width="100%" />
-</p>
+from PIL import Image, ImageDraw, ImageFont
+
+# Create an image with a specified background color
+width, height = 1200, 300
+background_color = (30, 144, 255)  # Dodger blue
+image = Image.new('RGB', (width, height), color=background_color)
+
+# Initialize ImageDraw
+draw = ImageDraw.Draw(image)
+
+# Define the text and font
+text = "Welcome to BinaryVortex's Profile"
+font_size = 70
+font = ImageFont.truetype("arial.ttf", font_size)
+
+# Calculate the width and height of the text to center it
+text_width, text_height = draw.textsize(text, font=font)
+text_x = (width - text_width) / 2
+text_y = (height - text_height) / 2
+
+# Draw the text on the image
+draw.text((text_x, text_y), text, font=font, fill=(255, 255, 255))  # White text
+
+# Save the image
+image_path = "/mnt/data/BinaryVortex_Banner.png"
+image.save(image_path)
+
+image.show()
 
 <h1 align="center">Hi 👋, I'm BinaryVortex.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
