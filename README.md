@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **python,java,html,css,javascript and sql...**
 
-- 📫 How to reach me **disandup1@gmail.com** (Email)
+- 📫 How to reach me **disandup6@gmail.com** (Email)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/disandu-perera-8bb931264/](https://www.linkedin.com/in/disandu-perera-8bb931264/) (Linkedln)
 
