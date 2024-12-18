@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61551643750277] (CODEMASTERS GUILD)
 
-- 💬 Ask me about **python,java,html,css,javascript and sql...**
+- 💬 Ask me about **python,java,html,css,javascript,react,nodejs and sql...**
 
 - 📫 How to reach me **disandup6@gmail.com** (Email)
 
