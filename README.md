@@ -1,40 +1,71 @@
-Hi 👋, I'm BinaryVortex.
-A passionate developer from Sri Lanka.
-Coding
+<h1 align="center">Hi 👋, I'm BinaryVortex</h1>
+<h3 align="center">🚀 A Passionate Developer from Sri Lanka</h3>
 
-binaryvortex
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+my+passion...;Building+cool+things+with+code;Always+learning+new+tech!&center=true&width=500&height=45">
+</p>
 
-binaryvortex
+---
 
+## 🔥 About Me
 
+- 🔭 I’m currently working on **Improving My Coding Skills**
+- 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript & SQL**
+- 👯 I’m looking to collaborate on **Projects**
+- 🤝 I’m looking for help with **Projects**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, React, Node.js & SQL**
+- ⚡ Fun fact: **I Love Coding 💻**
 
-🔭 I’m currently working on Improving My Coding Skill
+---
 
-🌱 I’m currently learning python,java,html,css,javascript and sql...
+## 🌐 Portfolio & Content
 
-👯 I’m looking to collaborate on Projects
+- 👨‍💻 My Projects:  
+  👉 https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/
 
-🤝 I’m looking for help with Projects
+- 📝 Articles & Content:  
+  👉 https://www.facebook.com/profile.php?id=61551643750277
 
-👨‍💻 All of my projects are available at [https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/] (Linkedln)
+- 📄 My Experience:  
+  👉 https://www.linkedin.com/in/disandu-perera-8bb931264/
 
-📝 I regularly write articles on [https://www.facebook.com/profile.php?id=61551643750277] (CODEMASTERS GUILD)
+---
 
-💬 Ask me about python,java,html,css,javascript,react,nodejs and sql...
+## 📫 Connect With Me
 
-📫 How to reach me disandup6@gmail.com (Email)
+<p align="left">
+<a href="https://www.linkedin.com/in/disandu-perera-8bb931264/" target="blank">LinkedIn</a> |
+<a href="https://stackoverflow.com/users/22969385/disandu-perera" target="blank">Stack Overflow</a> |
+<a href="https://www.youtube.com/channel/ucgrbewfss7sv8nfoiy5rkwg" target="blank">YouTube</a> |
+<a href="https://www.hackerrank.com/profile/disandup1" target="blank">HackerRank</a>
+</p>
 
-📄 Know about my experiences https://www.linkedin.com/in/disandu-perera-8bb931264/ (Linkedln)
+📧 Email: **disandup6@gmail.com**
 
-⚡ Fun fact I Love Coding
+---
 
-Blogs posts
-Connect with me:
-disandu perera https://www.linkedin.com/in/disandu-perera-8bb931264/ https://stackoverflow.com/users/22969385/disandu-perera disandu perera https://www.youtube.com/channel/ucgrbewfss7sv8nfoiy5rkwg disandu perera https://www.hackerrank.com/profile/disandup1
+## 🧠 Languages & Tools
 
-Languages and Tools:
-angular arduino blender bootstrap css3 django express figma firebase flutter framer gcp git html5 hugo illustrator invision java javascript jekyll linux mongodb mysql nextjs nginx nodejs opencv oracle photoshop php postgresql postman python pytorch react reactnative sass scala selenium sketch spring svelte swift tailwind tensorflow typescript unity vuejs webpack zapier
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=angular,arduino,blender,bootstrap,css,django,express,figma,firebase,flutter,framer,gcp,git,html,illustrator,java,javascript,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postgresql,postman,python,pytorch,react,reactnative,sass,selenium,spring,svelte,swift,tailwind,tensorflow,typescript,unity,vue,webpack,zapier" />
+</p>
 
-binaryvortex
+---
 
- binaryvortex
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinaryVortex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryVortex&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Fun Zone
+
+```bash
+> while(alive) {
+>   code();
+>   learn();
+>   build();
+> }
