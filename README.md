@@ -43,7 +43,7 @@
 </p>
 
 
-📧 Email: **disandup6@gmail.com**
+📧 Email: **disandup1@gmail.com**
 
 ---
 
