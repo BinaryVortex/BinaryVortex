@@ -1,53 +1,65 @@
 <h1 align="center">Hi 👋, I'm BinaryVortex</h1>
-<h3 align="center">🚀 A Passionate Developer from Sri Lanka</h3>
+<h3 align="center">🚀 Building the Future with Code | DIGIQ 360</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+my+passion...;Building+cool+things+with+code;Always+learning+new+tech!&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=BinaryVortex&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&lines=Full+Stack+Developer;Tech+Enthusiast;Building+Creative+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🔥 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on **Improving My Coding Skills**
-- 🌱 I’m currently learning **Python, Java, HTML, CSS, JavaScript & SQL**
-- 👯 I’m looking to collaborate on **Projects**
-- 🤝 I’m looking for help with **Projects**
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, React, Node.js & SQL**
-- ⚡ Fun fact: **I Love Coding 💻**
-
----
-
-## 🌐 Portfolio & Content
-
-- 👨‍💻 My Projects:  
-  👉 https://github.com/BinaryVortex
-
-- 📝 Articles & Content:  
-  👉 https://medium.com/@disandup1
-
-- 📄 My Experience:  
-  👉 https://www.linkedin.com/in/disandu-perera-8bb931264/
+- 🔭 Currently working on **Leveling Up My Coding Skills**
+- 🌱 Learning **Python, Java, Web Dev & Databases**
+- 👯 Open to collaborate on **Cool Projects**
+- 🤝 Looking for help with **Innovative Ideas**
+- 💬 Ask me about **Full Stack Development**
+- ⚡ Fun fact: **I code like it's a game 🎮**
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Digital Presence
 
-<p align="left">
-<a href="https://www.linkedin.com/in/disandu-perera-8bb931264/" target="blank">LinkedIn</a> |
-<a href="https://stackoverflow.com/users/22969385/disandu-perera" target="blank">Stack Overflow</a> |
-<a href="https://www.youtube.com/channel/ucgrbewfss7sv8nfoiy5rkwg" target="blank">YouTube</a> |
-<a href="https://www.hackerrank.com/profile/disandup1" target="blank">HackerRank</a>
+- 👨‍💻 Projects:  
+  https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/
+
+- 📝 Articles:  
+  https://www.facebook.com/profile.php?id=61551643750277
+
+- 📄 Experience:  
+  https://www.linkedin.com/in/disandu-perera-8bb931264/
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/disandu-perera-8bb931264/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/22969385/disandu-perera"><img src="https://img.shields.io/badge/StackOverflow-8A2BE2?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/ucgrbewfss7sv8nfoiy5rkwg"><img src="https://img.shields.io/badge/YouTube-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/disandup1"><img src="https://img.shields.io/badge/HackerRank-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 📧 Email: **disandup6@gmail.com**
 
 ---
 
-## 🧠 Languages & Tools
+## ⚡ Tech Stack
 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=angular,arduino,blender,bootstrap,css,django,express,figma,firebase,flutter,framer,gcp,git,html,illustrator,java,javascript,linux,mongodb,mysql,nextjs,nodejs,opencv,photoshop,php,postgresql,postman,python,pytorch,react,reactnative,sass,selenium,spring,svelte,swift,tailwind,tensorflow,typescript,unity,vue,webpack,zapier" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb,mysql,postgresql,firebase,tailwind,bootstrap,figma,git,linux,django,express,nextjs" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BinaryVortex&theme=discord&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -55,16 +67,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryVortex&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BinaryVortex&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryVortex&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🧩 Fun Zone
+## 👀 Visitor Counter
 
-```bash
-> while(alive) {
->   code();
->   learn();
->   build();
-> }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinaryVortex&label=Profile%20Views&color=8A2BE2&style=flat" />
+</p>
+
+---
+
+## 🎮 Dev Loop
+
+```js
+while(true) {
+  learn();
+  build();
+  improve();
+  repeat();
+}
