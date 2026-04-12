@@ -25,7 +25,7 @@
 ## 📂 Portfolio & Content
 
 - 👨‍💻 My Projects: 
-  🔗 https://github.com/BinaryVortex
+  🔗 https://github.com/BinaryVortex?tab=repositories
 - 📝 Articles & Content: 
   🔗 https://medium.com/@disandup1
 - 📄 My Portfolio:  
