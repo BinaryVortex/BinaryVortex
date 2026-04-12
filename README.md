@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/disandu-perera-8bb931264/" target="blank">LinkedIn</a> |
 <a href="https://stackoverflow.com/users/22969385/disandu-perera" target="blank">Stack Overflow</a> |
 <a href="https://www.youtube.com/channel/uc8bbewfss77c8nfoiy5rkwg" target="blank">YouTube</a> |
-<a href="https://www.hackerrank.com/profile/disandup1" target="blank">HackerRank</a>
+<a href="https://www.hackerrank.com/profile/disandup1" target="blank">Facebook</a>
 </p>
 
 
