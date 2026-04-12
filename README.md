@@ -61,10 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryVortex&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=BinaryVortex.BinaryVortex" />
-</p>
-
 ---
 
 ## 🥡 Fun Zone
