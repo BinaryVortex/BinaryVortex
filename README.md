@@ -21,10 +21,10 @@
 ## 🌐 Portfolio & Content
 
 - 👨‍💻 My Projects:  
-  👉 https://www.linkedin.com/in/disandu-perera-8bb931264/details/projects/
+  👉 https://github.com/BinaryVortex
 
 - 📝 Articles & Content:  
-  👉 https://www.facebook.com/profile.php?id=61551643750277
+  👉 https://medium.com/@disandup1
 
 - 📄 My Experience:  
   👉 https://www.linkedin.com/in/disandu-perera-8bb931264/
