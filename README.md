@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BinaryVortex/BinaryVortex/main/github-header-banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm BinaryVortex</h1>
 <h3 align="center">💻 A Passionate Developer from Sri Lanka</h3>
 
