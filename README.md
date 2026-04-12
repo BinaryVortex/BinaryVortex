@@ -6,7 +6,7 @@
 <h3 align="center">💻 A Passionate Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahme&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Disandu Perera" /> </p>
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+is+my+passion...;Building+cool+things+with+code;Always+learning+new+tech!&center=true&width=500&height=45">
