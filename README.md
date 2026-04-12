@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm BinaryVortex</h1>
 <h3 align="center">💻 A Passionate Developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabiehahme&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sabieh ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahme&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sabieh ahmed" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="center">
