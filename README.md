@@ -28,8 +28,8 @@
   🔗 https://github.com/BinaryVortex
 - 📝 Articles & Content: 
   🔗 https://medium.com/@disandup1
-- 📄 My Experience:  
-  🔗 https://www.linkedin.com/in/disandu-perera-8bb931264/
+- 📄 My Portfolio:  
+  🔗 https://disandu-perera-portfolio-main.vercel.app/
 
 ---
 
